@@ -1,1 +1,1 @@
-# Sentence-Fusion-with-event-graph
+Sentence-Fusion-with-Event-Graph
